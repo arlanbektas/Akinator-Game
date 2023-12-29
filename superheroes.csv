@@ -1,0 +1,36 @@
+id,name,universe,Super Strength,Flight,Super Speed,Super Intelligence,Super Durability,alignment,gender,species,occupation,origin,affiliation
+1,Batman,DC,False,False,False,True,False,Good,Male,Human,Vigilante,Gotham City,Justice League
+2,Superman,DC,True,True,True,True,True,Good,Male,Kryptonian,Journalist,Smallville,Justice League
+3,Spider-Man,Marvel,False,False,True,False,False,Good,Male,Human,Photographer,New York City,Avengers
+4,Iron Man,Marvel,False,True,False,True,True,Good,Male,Human,Billionaire,New York City,Avengers
+5,Wonder Woman,DC,True,True,True,True,True,Good,Female,Amazonian,Princess,Themyscira,Justice League
+6,Captain America,Marvel,False,False,False,False,True,Good,Male,Human,Soldier,Brooklyn,Avengers
+7,The Flash,DC,False,False,True,False,False,Good,Male,Human,Forensic Scientist,Central City,Justice League
+8,Black Widow,Marvel,False,False,True,True,False,Good,Female,Human,Assassin,Moscow,Avengers
+9,Aquaman,DC,True,False,True,False,True,Good,Male,Atlantean,King,Atlantis,Justice League
+10,Hulk,Marvel,True,False,False,False,True,Neutral,Male,Human/Gamma Mutate,Scientist,Dayton,Avengers
+11,Gamora,Marvel,True,False,True,True,True,Neutral,Female,Zehoberei,Assassin,Zehoberei,Guardians of the Galaxy
+12,Green Lantern,DC,True,True,True,True,True,Good,Male,Human,Test Pilot,Coast City,Justice League
+13,Thor,Marvel,True,True,True,False,True,Good,Male,Asgardian,God of Thunder,Asgard,Avengers
+14,Black Panther,Marvel,True,False,True,True,True,Good,	Male,Human,King,Wakanda,Avengers
+15,Cyclops,Marvel,False,False,False,True,False,Good,Male,Mutant,Student,Neopolis,X-Men
+16,Harley Quinn,DC,False,False,False,False,False,Neutral,Female,Human,Psychiatrist,Gotham City,Suicide Squad
+17,Deadpool,Marvel,True,False,True,True,True,Neutral,Male,Mutant,Mercenary,New York City,X-Force
+18,Captain Marvel,Marvel,True,True,True,True,True,Good,Female,Human/Kree Hybrid,US Air Force Pilot,Earth,Avengers
+19,Green Arrow,DC,False,False,False,True,False,Good,Male,Human,Vigilante,Star City,Justice League
+20,Doctor Strange,Marvel,False,True,False,True,False,Good,Male,Human,Surgeon,New York City,Avengers
+21,Catwoman,DC,False,False,False,True,False,Neutral,Female,Human,Burglar,Gotham City,Independent
+22,Storm,Marvel,False,True,True,True,False,Good,Female,Mutant,Teacher,Kenya,X-Men
+23,Shazam,DC,True,True,True,False,True,Good,Male,Human,Student/Foster Child,Fawcett City,Justice League
+24,Scarlet Witch,Marvel,False,False,False,True,False,Neutral,Female,Mutant,Avenger,Transia,Avengers
+25,Ant-Man,Marvel,False,False,False,True,False,Good,Male,Human,Electrical Engineer,New York City,Avengers
+26,Joker,DC,False,False,False,True,False,Evil,Male,Human,Criminal/Gangster,Gotham City,Injustice League
+27,Loki,Marvel,False,True,False,True,False,Neutral,Male,Asgardian,Trickster God,Asgard,Independent
+28,Hawkeye,Marvel,False,False,False,False,False,Good,Male,Human,Vigilante,New York City,Avengers
+29,Supergirl,DC,True,True,True,True,True,Good,Female,Kryptonian,Reporter,Earth,Justice League
+30,Red Hood,DC,False,False,False,False,False,Neutral,Male,Human,Vigilante,Gotham City,Outlaw
+31,Star-Lord,Marvel,False,True,False,True,False,Good,Male,Human,Space Explorer,Earth,Guardians of the Galaxy
+32,Robin,DC,False,False,False,False,False,Good,Male,Human,Vigilante,Gotham City,Teen Titans
+33,Groot,Marvel,False,False,False,False,True,Good,Male,Flora Colossus,Guardians of the Galaxy,Planet X,Guardians of the Galaxy
+34,Deadshot,DC,False,False,False,False,False,Neutral,Male,Human,Mercenary,Gotham City,Suicide Squad
+35,Wolverine,Marvel,True,False,True,False,True,Neutral,Male,Mutant,Soldier,Canada,X-Men
